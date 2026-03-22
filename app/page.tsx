@@ -10,9 +10,6 @@ export default function Home() {
       <FilmsSection />
       <TeamSection />
       <FormSection />
-      <section className="h-[1200px] bg-black text-white flex items-center justify-center">
-        NEXT SECTION
-      </section>
     </>
   );
 }
